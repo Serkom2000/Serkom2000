@@ -30,6 +30,3 @@ That's most of what I've worked with:
 # 📱 PC & Android Applications
 **Using tools like Android Studio and VS, I've developed applications for both PC and Android platforms, diving into mobile and desktop development for a broader range of software solutions.**
 
-## 🎯 Programming Competitions: I've participated in and won several school programming contests, which fuel my enthusiasm for software development.
-
-***I'm excited to connect, learn, and collaborate with like-minded developers and innovators. Looking forward to sharing knowledge and building impactful projects together! 🚀***
