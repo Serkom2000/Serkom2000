@@ -1,8 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=About+Me)](https://git.io/typing-svg)
 
 
-### 👋 Hello, everyone!
-I'm 13 y.o.
+### 👋 Hello, everyone
 
 **I'm passionate about learning new programming languages and i currently focused on Python, JavaScript, C++, and C#. My primary expertise lies in Python, where I've successfully completed various projects.**
 That's most of what I've worked with:  
