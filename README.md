@@ -1,7 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=About+Me)](https://git.io/typing-svg)
 
-![Metrics](https://metrics.lecoq.io/madushadhanushka?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 ### 👋 Hello, everyone
 
 **I'm passionate about learning new programming languages and i currently focused on Python, JavaScript, C++, and C#. My primary expertise lies in Python, where I've successfully completed various projects.**
@@ -14,19 +13,4 @@ That's most of what I've worked with:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-# 🖥️Linux Environments 
-**I work regularly with Linux, making it my preferred environment for development.**
-
-# 📊 Parsers & Web Scraping
-**I've worked on numerous parsing and web scraping projects, creating robust scripts to collect, process, and analyze data efficiently.**
-
-# 🤖 Telegram & Discord Bots
-**I’ve developed bots for Telegram and Discord, enhancing user engagement and automating various tasks.**
-
-# 🔌 Arduino & IoT Projects
-**With experience in Arduino and ESP hardware, I've built IoT solutions and embedded systems, developing real-world applications with hands-on hardware experience.**
-
-# 📱 PC & Android Applications
-**Using tools like Android Studio and VS, I've developed applications for both PC and Android platforms, diving into mobile and desktop development for a broader range of software solutions.**
 
